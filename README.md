@@ -24,8 +24,6 @@ Made by Lee sheedy, for streaming data across local networks
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Creating a Server
 from vidstream import StreamingServer
